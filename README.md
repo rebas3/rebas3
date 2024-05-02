@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @rebas3
+- 👀 I’m interested in web development and AI
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Web project
+- ⚡ Fun fact: Im using arch btw
